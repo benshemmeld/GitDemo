@@ -13,6 +13,7 @@ namespace GitDemo
             Console.WriteLine("Welcome to the Git Demo");
 
             //TODO: Code will be added here
+            Console.WriteLine("Here is a change I'm going to commit to master");
 
             Console.WriteLine("Press ENTER to exit");
             Console.ReadLine();
