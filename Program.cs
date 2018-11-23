@@ -15,7 +15,6 @@ namespace GitDemo
             //TODO: Code will be added here
             Console.WriteLine("Here is a change I'm going to commit to master");
 
-            //Comments
             Console.WriteLine("Here is Feature 1");
             Console.WriteLine("This is feature 2");
 
